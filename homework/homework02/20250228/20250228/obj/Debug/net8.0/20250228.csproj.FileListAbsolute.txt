@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\bin\Debug\net8.0\20250228.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\bin\Debug\net8.0\20250228.deps.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\bin\Debug\net8.0\20250228.runtimeconfig.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\bin\Debug\net8.0\20250228.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\bin\Debug\net8.0\20250228.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.sourcelink.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\refint\20250228.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\20250228.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework02\20250228\20250228\obj\Debug\net8.0\ref\20250228.dll
