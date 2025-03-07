@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\bin\Debug\net8.0\clock.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\bin\Debug\net8.0\clock.deps.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\bin\Debug\net8.0\clock.runtimeconfig.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\bin\Debug\net8.0\clock.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\bin\Debug\net8.0\clock.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.sourcelink.json
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\refint\clock.dll
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\clock.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework03\clock\clock\obj\Debug\net8.0\ref\clock.dll
