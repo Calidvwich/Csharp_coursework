@@ -1,0 +1,54 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 2025/03/10 20:36:25
+// Design Name: 
+// Module Name: GRE_array
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module GRE_array # (parameter WIDTH=256) (
+input Clk, Rst, write_enable, flush,
+input[0:WIDTH-1] in,
+output reg[0:WIDTH-1] out
+);
+always@ (negedge Clk)
+begin
+if(write_enable)
+    begin
+        if(flush)
+            out = 0;
+        else
+            out = in;
+        end
+    end
+    always@ (posedge Rst)
+    begin
+        out =0;
+    end
+endmodule
+module forward_unit(
+input RegWrite_MEM, // EX/MEM regwrite
+input [4:0] rd_MEM, // EX/MEM rd
+input RegWrite_WB, // MEM/WB regwrite
+input [4:0] rd_WB, // MEM/WB rd
+input [4:0] rs_EX, 
+output [1:0] ForwardSignal // 00: from rf 10: from MEM_aluout 01: from WB_WD
+    );
+    wire MEM_Forward = (rd_MEM == 0)? 1'b0:((~(|(rd_MEM ^ rs_EX))) & (RegWrite_MEM));
+    wire WB_Forward = (rd_WB == 0)? 1'b0:((~(|(rd_WB ^ rs_EX))) & (RegWrite_WB) & (~MEM_Forward));
+    assign ForwardSignal = {{MEM_Forward}, {WB_Forward}};
+endmodule

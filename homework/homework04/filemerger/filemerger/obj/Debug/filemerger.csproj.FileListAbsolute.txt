@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\bin\Debug\filemerger.exe.config
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\bin\Debug\filemerger.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\bin\Debug\filemerger.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\FileMergerApp.Form1.resources
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework04\filemerger\filemerger\obj\Debug\filemerger.pdb
