@@ -5,21 +5,26 @@ namespace MyAlarmApp
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
+            if (args.Length == 0)
+            {
+                // 让进程在后台运行
+                AlarmClock.StartBackgroundProcess();
+                return;
+            }
+
             AlarmClock clock = new AlarmClock();
 
             clock.Tick += (sender, e) =>
             {
-                // 这里打印每秒的时间
                 Console.WriteLine($"Tick: 当前时间是 {DateTime.Now:HH:mm:ss}");
             };
 
             clock.Alarm += (sender, e) =>
             {
-                // 触发响铃时打印提示信息
                 Console.WriteLine("时间到了！");
-                Console.Beep();  // 播放系统蜂鸣声
+                Console.Beep(); // 播放系统蜂鸣声
             };
 
             try
@@ -27,24 +32,25 @@ namespace MyAlarmApp
                 Console.Write("请输入闹钟时间（格式 HH:mm:ss）：");
                 if (DateTime.TryParse(Console.ReadLine(), out DateTime alarmTime))
                 {
+                    // 修正 alarmTime，确保它带有当天日期
+                    alarmTime = DateTime.Today.Add(alarmTime.TimeOfDay);
+
                     if (alarmTime < DateTime.Now)
                     {
-                        Console.WriteLine("不能设置过去的时间");
+                        // 如果用户输入的时间已经过去，自动调整到明天
+                        alarmTime = alarmTime.AddDays(1);
                     }
-                    else
-                    {
-                        clock.SetAlarm(alarmTime);  // 设置闹钟时间
-                        clock.Start();               // 启动计时器
-                    }
+
+                    clock.SetAlarm(alarmTime);
+                    clock.Start();
                 }
                 else
                 {
                     Console.WriteLine("输入格式错误");
                 }
 
-                // 等待直到用户按下任意键，防止程序提前退出
-                Console.WriteLine("按任意键退出程序...");
-                Console.ReadKey();
+                // 让后台进程保持运行
+                while (true) Thread.Sleep(1000);
             }
             catch (Exception ex)
             {
@@ -53,4 +59,3 @@ namespace MyAlarmApp
         }
     }
 }
-
