@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework05\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework05\\CalculatorApp\\calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\lenovo\\desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework05\\calculatorapp\\calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\lenovo\\desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework05\\calculatorapp\\calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework05\\CalculatorApp\\calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83BC8BC8-98CA-4224-8145-360B06990ADC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,8 +64,7 @@
               "RelativeToolTip": "CalculatorApp\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-28T13:22:56.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:22:56.663Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "CalculatorApp\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:32:32.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:32:32.389Z"
             }
           ]
         }
