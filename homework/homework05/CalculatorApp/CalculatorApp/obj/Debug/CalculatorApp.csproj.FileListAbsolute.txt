@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Lenovo\Desktop\大学学习\软件工程概论\work\homework\homework05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

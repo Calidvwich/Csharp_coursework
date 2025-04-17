@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5FE0CB-70E7-4324-9C37-E8A32B2D6D13}|clock\\clock.csproj|c:\\users\\lenovo\\desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5FE0CB-70E7-4324-9C37-E8A32B2D6D13}|clock\\clock.csproj|solutionrelative:clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5FE0CB-70E7-4324-9C37-E8A32B2D6D13}|clock\\clock.csproj|c:\\users\\lenovo\\desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5FE0CB-70E7-4324-9C37-E8A32B2D6D13}|clock\\clock.csproj|solutionrelative:clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clock.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\clock.cs",
+              "RelativeDocumentMoniker": "clock\\clock.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\clock.cs",
+              "RelativeToolTip": "clock\\clock.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wCYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:04:34.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\program.cs",
+              "RelativeDocumentMoniker": "clock\\program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u5927\u5B66\u5B66\u4E60\\\u8F6F\u4EF6\u5DE5\u7A0B\u6982\u8BBA\\work\\homework\\homework03\\clock\\clock\\program.cs",
+              "RelativeToolTip": "clock\\program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:00:04.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
