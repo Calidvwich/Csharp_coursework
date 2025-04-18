@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHqlRXxxsYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\WebSearchAppFull\\WebSearchApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

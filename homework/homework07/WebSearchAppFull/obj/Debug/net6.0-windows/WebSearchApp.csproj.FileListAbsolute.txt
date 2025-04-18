@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\WebSearchApp.exe
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\WebSearchApp.deps.json
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\WebSearchApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\WebSearchApp.dll
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\WebSearchApp.pdb
+C:\Users\Lenovo\Desktop\WebSearchAppFull\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearc.94B28A05.Up2Date
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.dll
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\refint\WebSearchApp.dll
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.pdb
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\WebSearchApp.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\WebSearchAppFull\obj\Debug\net6.0-windows\ref\WebSearchApp.dll
