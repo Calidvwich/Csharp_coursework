@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\WordReciteApp.exe.config
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\WordReciteApp.exe
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\WordReciteApp.pdb
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\EntityFramework.dll
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\bin\Debug\net472\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReci.53671EE5.Up2Date
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.exe
+C:\Users\Lenovo\Desktop\WordReciteApp_Full\WordReciteApp\obj\Debug\net472\WordReciteApp.pdb
